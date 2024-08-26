@@ -18,6 +18,7 @@ Run the Scanner:
 bash
 Copy code
 python scanner.py
+
 Follow the Prompts:
 
 Enter the Target URL: Provide the base URL of the web application you want to test (e.g., http://example.com/index.php?param=).
