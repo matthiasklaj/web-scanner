@@ -1,21 +1,20 @@
 # Multi-Function Web Scanner
 
 ## Overview
+
 Multi-Function Web Scanner is a Python-based tool designed to detect common web application vulnerabilities. This tool is intended for educational purposes and should only be used on websites for which you have explicit permission to test.
 
 ## Features
+
 - **SQL Injection Detection**: Identifies SQL injection vulnerabilities using a set of common payloads.
 - **XSS (Cross-Site Scripting) Detection**: Detects XSS vulnerabilities by injecting typical JavaScript payloads.
 - **Directory Traversal Detection**: Finds directory traversal vulnerabilities by attempting to access sensitive files.
 
 ## Installation
-
-Make sure to pip install requests in command line
+**pip install requests **from command line , if not installed , install pip .
 1. **Clone the Repository**:
-    git clone https://github.com/yourusername/MultiFunctionWebScanner.git
-
-    cd MultiFunctionWebScanner
-
+   git clone https://github.com/matthiasklaj/web-scanner.git
+   cd web-scanner
 Run the Scanner:
 example = python scanner.py
 
