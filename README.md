@@ -17,9 +17,7 @@ Make sure to pip install requests in command line
     cd MultiFunctionWebScanner
 
 Run the Scanner:
-bash
-Copy code
-python scanner.py
+example = python scanner.py
 
 Follow the Prompts:
 
