@@ -9,10 +9,12 @@ Multi-Function Web Scanner is a Python-based tool designed to detect common web 
 - **Directory Traversal Detection**: Finds directory traversal vulnerabilities by attempting to access sensitive files.
 
 ## Installation
+
+Make sure to pip install requests in command line
 1. **Clone the Repository**:
-pip install requests
-   git clone https://github.com/yourusername/MultiFunctionWebScanner.git
-   cd MultiFunctionWebScanner
+    git clone https://github.com/yourusername/MultiFunctionWebScanner.git
+
+    cd MultiFunctionWebScanner
 
 Run the Scanner:
 bash
