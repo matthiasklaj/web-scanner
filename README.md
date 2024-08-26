@@ -22,8 +22,13 @@ python scanner.py
 Follow the Prompts:
 
 Enter the Target URL: Provide the base URL of the web application you want to test (e.g., http://example.com/index.php?param=).
+
 Select Scan Type: Choose the type of scan you want to perform:
+
 1 for SQL Injection
+
 2 for XSS
+
 3 for Directory Traversal
+
 Review the Results: The tool will output the results of the scan to the console, indicating whether vulnerabilities were found and providing details.
